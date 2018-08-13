@@ -1,16 +1,15 @@
 # Windows Environment
 
-A personalized checklist for apps to install on Windows 10.
+A personalized checklist for apps to install on Windows 7+.
 
 ### Third-Party Apps
 
 - 1Password
 - Adobe Creative Suite
-- Brave
+- Affinity Designer/Photo
 - Chrome
 - Dash
 - Firefox
-- Sequel Pro
 - Visual Studio Code
 
 ---
