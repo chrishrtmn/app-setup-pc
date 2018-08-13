@@ -14,6 +14,10 @@ A personalized checklist for apps to install on Windows 7+.
 
 ---
 
+Chocolatey for cmd.exe (Homebrew alternative for Windows)
+
+---
+
 ### Browser Extensions
 
 - 1Password
