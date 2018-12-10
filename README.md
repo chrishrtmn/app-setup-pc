@@ -1,6 +1,6 @@
 # Windows Environment
 
-A personalized checklist for apps to install on Windows 7+.
+A personalized checklist for apps to install on Windows 10+.
 
 ### Third-Party Apps
 
@@ -23,6 +23,4 @@ Chocolatey for cmd.exe (Homebrew alternative for Windows)
 - 1Password
 - AdGuard AdBlocker
 - Awesome Screenshot
-- React Dev Tools
 - StartPage HTTPS
-- Vue Dev Tools
