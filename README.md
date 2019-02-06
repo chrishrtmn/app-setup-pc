@@ -4,11 +4,8 @@ A personalized checklist for apps to install on Windows 10+.
 
 ### Third-Party Apps
 
-- 1Password
-- Adobe Creative Suite
 - Affinity Designer/Photo
-- Chrome
-- Dash
+- Bitwarden
 - Firefox
 - Visual Studio Code
 
