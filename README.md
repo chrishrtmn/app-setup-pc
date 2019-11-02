@@ -18,8 +18,9 @@ A personalized checklist for apps to install on Windows 10+.
 
 ---
 
-Affinity Designer
-Affinity Photo
+To Purchase:
+- Affinity Designer
+- Affinity Photo
 
 ---
 
