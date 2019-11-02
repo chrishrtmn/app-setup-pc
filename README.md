@@ -15,6 +15,12 @@ A personalized checklist for apps to install on Windows 10+.
 - Cryptomator
 - Voicemeeter
 - VBCable
+- Chrome for [Web Captioner](https://webcaptioner.com/captioner)
+- TeamViewer (for Work?)
+- Airparrot
+- OpenHardwareMonitor
+- SharpKeys
+- Remouse Micro
 
 ---
 
