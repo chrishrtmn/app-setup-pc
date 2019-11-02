@@ -31,6 +31,17 @@ To Purchase:
 
 ---
 
+---
+
+Gaming:
+- Battle.net
+- Epic
+- GOG
+- Uplay
+- Origin
+- Steam
+- Xbox Beta
+
 Chocolatey for cmd.exe (Homebrew alternative for Windows)
 
 ---
