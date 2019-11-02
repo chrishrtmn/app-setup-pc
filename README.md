@@ -18,6 +18,11 @@ A personalized checklist for apps to install on Windows 10+.
 
 ---
 
+Affinity Designer
+Affinity Photo
+
+---
+
 Chocolatey for cmd.exe (Homebrew alternative for Windows)
 
 ---
