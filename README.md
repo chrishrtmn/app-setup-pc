@@ -22,6 +22,7 @@ A personalized checklist for apps to install on Windows 10+.
 - OpenHardwareMonitor
 - SharpKeys
 - Remouse Micro
+- CloudyTabs for Firefox/Safari?
 
 ---
 
