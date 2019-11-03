@@ -53,6 +53,6 @@ Chocolatey for cmd.exe (Homebrew alternative for Windows)
 - [StartPage Private Search](https://addons.mozilla.org/en-US/firefox/addon/startpage-privacy-search-engin/)
 - [Daily](https://addons.mozilla.org/en-US/firefox/addon/daily/)
 - [iCloud Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/icloud-bookmarks/)
-- Eagle.cool
+- [Eagle.cool](https://addons.mozilla.org/en-US/firefox/addon/eagle-app/)
 - [Awesome Screenshot Plus](https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/)
 - Dark (Theme)
