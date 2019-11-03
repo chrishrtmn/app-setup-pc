@@ -54,5 +54,5 @@ Chocolatey for cmd.exe (Homebrew alternative for Windows)
 - [Daily](https://addons.mozilla.org/en-US/firefox/addon/daily/)
 - [iCloud Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/icloud-bookmarks/)
 - Eagle.cool
-- Awesome Screenshot
+- [Awesome Screenshot Plus](https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/)
 - Dark (Theme)
