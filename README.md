@@ -1,58 +1,28 @@
-# Windows Environment
+# PC Gaming Environment
 
-A personalized checklist for apps to install on Windows 10+.
+A personalized checklist for apps to install on Windows 10+ for PC gaming
 
 ### Third-Party Apps
 
 - Bitwarden
-- Firefox
-- Visual Studio Code
-- Eagle.cool
-- Figma
-- Fusion Studio
 - iCloud for Windows
-- Veracrypt
-- Cryptomator
+- [AutoHotkey](https://www.autohotkey.com/download/)
+- SharpKeys
+- Remouse Micro
 - Voicemeeter
 - VBCable
 - Discord
 - Chrome for [Web Captioner](https://webcaptioner.com/captioner)
-- TeamViewer (for Work?)
 - Airparrot
 - OpenHardwareMonitor
-- SharpKeys
-- Remouse Micro
-
----
-
-To Purchase:
-- Affinity Designer
-- Affinity Photo
 
 ---
 
 Gaming:
-- Battle.net
-- Epic
-- GOG
-- Uplay
-- Origin
+- GOG Galaxy
 - Steam
 - Xbox Beta
-
----
-
-Chocolatey for cmd.exe (Homebrew alternative for Windows)
-
----
-
-### Browser Extensions
-
-- [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
-- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
-- [StartPage Private Search](https://addons.mozilla.org/en-US/firefox/addon/startpage-privacy-search-engin/)
-- [Daily](https://addons.mozilla.org/en-US/firefox/addon/daily/)
-- [iCloud Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/icloud-bookmarks/)
-- [Eagle.cool](https://addons.mozilla.org/en-US/firefox/addon/eagle-app/)
-- [Awesome Screenshot Plus](https://addons.mozilla.org/en-US/firefox/addon/screenshot-capture-annotate/)
-- Dark (Theme)
+- Battle.net
+- Epic
+- Uplay
+- Origin
