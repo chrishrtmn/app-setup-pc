@@ -15,6 +15,7 @@ A personalized checklist for apps to install on Windows 10+ for PC gaming
 - Chrome for [Web Captioner](https://webcaptioner.com/captioner)
 - Airparrot
 - OpenHardwareMonitor
+- EVGA Precision
 
 Mods/Co-op:
 - Parsec
