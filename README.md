@@ -16,6 +16,15 @@ A personalized checklist for apps to install on Windows 10+ for PC gaming
 - Airparrot
 - OpenHardwareMonitor
 
+Mods/Co-op:
+- Parsec
+- Vortex (Mods)
+- Modmanager (Mods)
+
+Streaming:
+- OBS Studio
+- Elgato 4K Capture Utility
+
 ---
 
 Gaming:
