@@ -23,7 +23,7 @@ Streaming:
 
 ---
 
-Gaming:
+Gaming Services:
 - GOG Galaxy
 - Steam
 - Xbox Beta
