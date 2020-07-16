@@ -1,4 +1,4 @@
-# app-setup-pc
+# setup-pc
 
 A personalized checklist for apps to install on Windows 10+ for PC gaming
 
