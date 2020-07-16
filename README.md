@@ -6,20 +6,21 @@ A personalized checklist for apps to install on Windows 10+ for PC gaming
 
 - Bitwarden
 - iCloud for Windows
-- [AutoHotkey](https://www.autohotkey.com/download/)
-- SharpKeys
-- Remouse Micro
-- Voicemeeter
-- VBCable
 - Discord
 - Chrome for [Web Captioner](https://webcaptioner.com/captioner)
 - Airparrot
 - OpenHardwareMonitor
 - EVGA Precision
+- [AutoHotkey](https://www.autohotkey.com/download/)
+- SharpKeys
+- Remouse Micro
 
 Streaming:
 - OBS Studio
 - Elgato 4K Capture Utility
+- VBCable
+- Voicemeeter
+- Elgato Wave Link (Voicemeeter alternative, to test)
 
 ---
 
@@ -33,6 +34,7 @@ Gaming Services:
 - Origin
 
 Mods/Co-op:
+- FiveM
 - Parsec
 - Vortex (Mods)
 - Modmanager (Mods)
